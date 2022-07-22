@@ -1,0 +1,7 @@
+it should parse jsonata syntax into an ast
+
+it should evaluate the ast against an input stream
+
+it should yield results from that evaluation
+
+it should start processing of arbitrary length inputs immediately
